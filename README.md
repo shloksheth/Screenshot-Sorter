@@ -25,7 +25,7 @@ Completely in Background MANUALLY:
 2. Open Command Prompt through search bar, or press Win+R and type cmd
 3. Run this command: python -m pip install watchdog, and this one: pip install watchdog
 4. Press Win+R on keyboard
-5. Type in: python C:\Users\you\yourfolder\sort_screenshots.pyw and hit enter
+5. Type in: pythonw C:\Users\you\yourfolder\sort_screenshots.pyw and hit enter
 
 
 CMD VISIBLE:
